@@ -16,3 +16,6 @@ And you're ready to use.
 ## "But why use Google Code Pretify?"
 
 I know there are better and more complete code highlighting JS libraries, such as `Highlight.js` and others, but Google Code Prettify is very small, and for me, using it to implement code highlighting is also good, *at least it meets my needs very well*.
+
+## Credits
+- Bito AI - for answering me some questions about regex, and write some example code to me
